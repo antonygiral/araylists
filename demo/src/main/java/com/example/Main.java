@@ -42,24 +42,26 @@ public class Main {
         Animales.add("perro ");
         Animales.add("gato");
         Animales.add("loro");
+        Animales.add("lora");
+        Animales.remove(2);
 
-        System.err.println("n/ciudades"+ciudades.get(1));
 
+        for (String Animal: Animales){
+            System.out.System.out.println(Animal);
         }
-        
 
 
-
+    
 
         {
 
         ArrayList <string> Frutas= new ArrayList<>();
         
-        Frutas.add("perro ");
-        Frutas.add("gato");
-        Frutas.add("loro");
+        Frutas.add("pera");
+        Frutas.add("mango");
+        Frutas.add("banano");
 
-        System.err.println("n/ciudades"+ciudades.get(1));
+        frutas.set(1"kiwy")
 
         }
         
