@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     
-        ArrayList <string> PeliculasLibros<>();
+        ArrayList <string> PeliculasLibros= new ArrayList<>();
         PeliculasLibros.add("pinocho");
         PeliculasLibros.add("mulan");
         PeliculasLibros.add("matilda");
@@ -15,8 +15,60 @@ public class Main {
 
         System.out.println("peliculas o libros favoritos");
         
+
         for (String titulo: PeliculasLibros){
-            System.out.`System.out.println(titulo);
+            System.out.System.out.println(titulo);
         }
+
+
+
+        {
+
+        ArrayList <string> Ciudades= new ArrayList<>();
+        
+        Ciudades.add("manizales ");
+        Ciudades.add("cali");
+        Ciudades.add("medellin");
+
+        System.err.println("n/ciudades"+ciudades.get(1));
+
+        }
+
+
+        {
+
+        ArrayList <string> Animales= new ArrayList<>();
+        
+        Animales.add("perro ");
+        Animales.add("gato");
+        Animales.add("loro");
+
+        System.err.println("n/ciudades"+ciudades.get(1));
+
+        }
+        
+
+
+
+
+        {
+
+        ArrayList <string> Frutas= new ArrayList<>();
+        
+        Frutas.add("perro ");
+        Frutas.add("gato");
+        Frutas.add("loro");
+
+        System.err.println("n/ciudades"+ciudades.get(1));
+
+        }
+        
+
+
+
+
+
+
+
 
 }
